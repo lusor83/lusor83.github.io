@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for My Finance Forecast.">
+  <title>Privacy Policy — My Finance Forecast</title>
+  <style>
+    :root{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f7f9fc}body{margin:0}main{max-width:820px;margin:0 auto;padding:54px 24px 80px}h1{font-size:38px;line-height:1.1}h2{margin-top:34px;font-size:22px}p,li{font-size:16px;line-height:1.65;color:#4a5568}.notice{background:#fff;border:1px solid #e3e8f0;border-radius:16px;padding:20px;margin:22px 0}a{color:#2457b8}code{background:#edf1f7;padding:2px 6px;border-radius:6px}footer{margin-top:48px;padding-top:22px;border-top:1px solid #e3e8f0}.small{font-size:14px}
+  </style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← My Finance Forecast</a></p>
+  <h1>Privacy Policy</h1>
+  <p><strong>My Finance Forecast</strong> is a personal financial planning and cash-flow forecasting application.</p>
+
+  <div class="notice"><strong>Summary:</strong> the current app stores the finance plan locally. Excel import is processed on the device. Google Drive is optional and financial data is sent to Drive only when the user explicitly requests a Drive operation.</div>
+
+  <h2>1. Financial planning data</h2>
+  <p>The app may process information entered by the user such as balances, income, expenses, one-off events, debts and payment schedules. In the current version, this finance plan is stored locally on the user's device. My Finance Forecast does not operate an application backend that receives or stores the user's finance plan.</p>
+  <p>The app does not request online-banking usernames, banking passwords, card PINs or similar authentication secrets. Users should not put such credentials in imported workbooks.</p>
+
+  <h2>2. Excel import</h2>
+  <p>When the user selects an Excel file (<code>.xlsx</code> or <code>.xls</code>), the operating-system document picker provides the selected file to the app. The workbook is read and validated on the device.</p>
+  <p>Excel import does not require a Google account and does not automatically upload the selected workbook to Google Drive or to a My Finance Forecast server.</p>
+
+  <h2>3. Local export</h2>
+  <p>When the user exports a workbook locally, the app generates the Excel file on the device. The user chooses where to save or share the file through operating-system file and sharing interfaces.</p>
+
+  <h2>4. Optional Google Drive integration</h2>
+  <p>Google Drive integration is optional. If the user explicitly connects Google Drive, My Finance Forecast requests the OAuth scope <code>https://www.googleapis.com/auth/drive.file</code>.</p>
+  <p>This per-file permission is used for files created or explicitly used with My Finance Forecast. The app does not request unrestricted access to the user's entire Google Drive.</p>
+  <p>Drive functionality may include creating an empty template, exporting the current finance plan to the user's own Drive, and importing compatible Google Sheets already accessible to the app. Financial plan data is sent to Google Drive only after an explicit user action. The current version does not perform automatic or background Drive synchronization.</p>
+  <p>Files stored on Google Drive are also subject to Google's terms and privacy policies.</p>
+
+  <h2>5. Google account information</h2>
+  <p>The Google authorization flow may provide basic account information necessary to display which Google account is connected and to authorize the requested Drive operations. The current version does not request offline access and does not intentionally store a long-lived Google refresh token.</p>
+
+  <h2>6. Sharing, advertising and sale of data</h2>
+  <p>My Finance Forecast does not sell user financial data. The current version does not use the user's finance plan for advertising or marketing and does not intentionally send that finance plan to analytics providers.</p>
+  <p>Exports to Google Drive or destinations selected by the user through the operating-system share/save interface are user-initiated transfers needed to provide the requested feature.</p>
+
+  <h2>7. Security and permissions</h2>
+  <p>Communication with Google APIs uses HTTPS. Google Drive authorization is limited to the per-file scope used by the optional Drive feature. Broad Android file-system access is not requested; import and export use operating-system document/storage selection interfaces.</p>
+  <p>Android automatic application backup is disabled for the current locally stored financial plan.</p>
+
+  <h2>8. Retention and deletion</h2>
+  <p>Local plan data remains on the device until the user changes or resets it, clears the application's local data, or uninstalls the application. Disconnecting Google Drive ends the active Drive connection in the app. Files previously exported to the user's Google Drive remain under the user's control and can be deleted from Google Drive.</p>
+
+  <h2>9. Changes to this policy</h2>
+  <p>If My Finance Forecast changes how Google user data or financial data is accessed, used, stored or shared, this policy and the relevant in-app disclosures will be updated before the new use is introduced.</p>
+
+  <h2>10. Contact</h2>
+  <p>For privacy or support requests, use the developer contact information published with the official My Finance Forecast application listing.</p>
+
+  <footer><p class="small">Last updated: 8 September 2026.</p></footer>
+</main>
+</body>
+</html>
