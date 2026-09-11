@@ -1,0 +1,46 @@
+.screenshot-showcase {
+  margin: 34px 0 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 26px;
+  background: var(--panel);
+  box-shadow: 0 18px 60px rgba(0,0,0,.22);
+}
+
+.screenshot-showcase a {
+  display: block;
+  overflow: hidden;
+  border-radius: 18px;
+  background: #090e1c;
+}
+
+.screenshot-showcase img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  transition: transform .25s ease;
+}
+
+.screenshot-showcase a:hover img {
+  transform: scale(1.01);
+}
+
+.screenshot-showcase figcaption {
+  padding: 14px 4px 2px;
+  color: var(--muted);
+  font-size: .95rem;
+  text-align: center;
+}
+
+@media (max-width: 820px) {
+  .screenshot-showcase {
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .screenshot-showcase a,
+  .screenshot-showcase img {
+    border-radius: 14px;
+  }
+}
