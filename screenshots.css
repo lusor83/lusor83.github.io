@@ -1,36 +1,68 @@
-.showcase-scroll {
-  margin-top: 30px;
+.screenshot-rail {
+  display: flex;
+  gap: 24px;
   overflow-x: auto;
-  overflow-y: hidden;
-  padding: 14px;
-  border: 1px solid var(--line);
-  border-radius: 24px;
-  background: var(--panel);
-  box-shadow: 0 18px 60px rgba(0,0,0,.22);
-  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-inline: contain;
+  padding: 12px 4px 24px;
+  margin-top: 30px;
+  scrollbar-width: thin;
 }
 
-.showcase-scroll img {
+.screenshot-card {
+  flex: 0 0 310px;
+  scroll-snap-align: start;
+  min-width: 0;
+}
+
+.screenshot-image-link {
   display: block;
-  width: 1500px;
-  max-width: none;
-  height: auto;
-  border-radius: 16px;
+  border-radius: 24px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #070b17;
+  box-shadow: 0 18px 60px rgba(0,0,0,.28);
 }
 
-.showcase-caption {
+.screenshot-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.screenshot-card h3 {
+  margin: 15px 3px 5px;
+  font-size: 1.05rem;
+}
+
+.screenshot-card p {
+  margin: 0 3px;
+  color: var(--muted);
+  font-size: .92rem;
+  line-height: 1.45;
+}
+
+.screenshot-hint {
   margin-top: 12px;
   color: var(--muted);
-  font-size: .95rem;
+  font-size: .9rem;
 }
 
 @media (max-width: 820px) {
-  .showcase-scroll {
+  .screenshot-rail {
+    gap: 17px;
     margin-right: calc((100vw - 100%) / -2);
     padding-right: 24px;
   }
 
-  .showcase-scroll img {
-    width: 1320px;
+  .screenshot-card {
+    flex-basis: min(78vw, 310px);
+  }
+}
+
+@media (max-width: 520px) {
+  .screenshot-image-link {
+    border-radius: 20px;
   }
 }
