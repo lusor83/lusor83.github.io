@@ -1,0 +1,10 @@
+{
+  "name": "DLF Technology",
+  "short_name": "DLF Technology",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070b17",
+  "theme_color": "#070b17",
+  "description": "Mobile apps, indie Android games and digital products by DLF Technology."
+}
