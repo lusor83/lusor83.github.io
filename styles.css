@@ -54,11 +54,23 @@ h1 span { color: transparent; background: linear-gradient(90deg, #a6b0ff, #64ead
 h2 { font-size: clamp(2rem, 4vw, 3.5rem); letter-spacing: -.045em; }
 h3 { font-size: 1.5rem; margin: 12px 0 10px; letter-spacing: -.025em; }
 .lead { max-width: 680px; color: var(--muted); font-size: 1.16rem; }
-.actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 32px; }
+.actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 32px; align-items: center; }
 .button { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0 19px; border-radius: 14px; font-weight: 750; border: 1px solid var(--line); }
 .button.primary { background: linear-gradient(135deg, var(--accent), #6579ff); color: white; border-color: transparent; }
 .button.secondary { background: rgba(255,255,255,.04); }
 .button:hover { transform: translateY(-1px); }
+
+.google-play-badge {
+  display: inline-flex;
+  align-items: center;
+  line-height: 0;
+  border-radius: 8px;
+  transition: transform .18s ease, filter .18s ease;
+}
+.google-play-badge:hover { transform: translateY(-1px); filter: brightness(1.07); }
+.google-play-badge img { display: block; width: auto; height: 56px; }
+.google-play-badge.compact { margin-top: 14px; }
+.google-play-badge.compact img { height: 46px; }
 
 .hero-art { position: relative; min-height: 390px; }
 .core {
@@ -155,4 +167,6 @@ footer { border-top: 1px solid var(--line); padding: 38px 0 48px; color: var(--m
   .card { grid-template-columns: 1fr; }
   .section { padding: 62px 0; }
   .product-badge { width: 136px; height: 136px; border-radius: 34px; font-size: 3.6rem; }
+  .google-play-badge img { height: 52px; }
+  .google-play-badge.compact img { height: 44px; }
 }
