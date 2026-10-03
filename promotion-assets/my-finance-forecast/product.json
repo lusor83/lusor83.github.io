@@ -1,0 +1,18 @@
+{
+  "name": "My Finance Forecast",
+  "type": "app",
+  "publisher": "LuSor Games",
+  "packageId": "com.lusor83.myfinanceforecast",
+  "officialPage": "https://lusor83.github.io/my-finance-forecast.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.myfinanceforecast",
+  "shortDescription": "An Android personal finance app for budgeting, monthly recap and forward-looking cash-flow forecasts, with trips, vehicles and investment planning.",
+  "icon": "icon.png",
+  "screenshots": [
+    "screenshots/01-home.jpg",
+    "screenshots/02-forecast.jpg",
+    "screenshots/03-recap.jpg",
+    "screenshots/04-investments.jpg",
+    "screenshots/05-trips.jpg",
+    "screenshots/06-vehicles.jpg"
+  ]
+}

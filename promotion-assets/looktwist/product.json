@@ -1,0 +1,15 @@
+{
+  "name": "LookTwist",
+  "type": "game",
+  "publisher": "LuSor Games",
+  "packageId": "com.looktwist.game",
+  "officialPage": "https://lusor83.github.io/looktwist.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.looktwist.game",
+  "shortDescription": "An Android hidden-object visual search game built around illustrated scenes, pan, zoom and curated challenges.",
+  "icon": "icon.svg",
+  "screenshots": [
+    "screenshots/01-menu.jpg",
+    "screenshots/02-levels.jpg",
+    "screenshots/03-gameplay.jpg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Life Unwritten",
+  "type": "game",
+  "publisher": "LuSor Games",
+  "packageId": "com.lusor83.lifeunwritten",
+  "officialPage": "https://lusor83.github.io/life-unwritten.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.lifeunwritten",
+  "shortDescription": "A persistent mobile life simulator shaped by choices across education, careers, relationships, health, money and unexpected events.",
+  "icon": "icon.png",
+  "screenshots": [
+    "screenshots/01-planning.jpg",
+    "screenshots/02-career.jpg",
+    "screenshots/03-relationships.jpg",
+    "screenshots/04-calendar.jpg",
+    "screenshots/05-challenge-result.jpg"
+  ]
+}

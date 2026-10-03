@@ -1,0 +1,16 @@
+{
+  "name": "Nerelune: Secrets of the Cove",
+  "type": "game",
+  "publisher": "LuSor Games",
+  "packageId": "com.lusor83.nerelune",
+  "officialPage": "https://lusor83.github.io/nerelune.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.nerelune",
+  "shortDescription": "A portrait merge adventure where you complete character orders, restore a forgotten seaside resort and uncover its memories and secrets.",
+  "icon": "icon.png",
+  "screenshots": [
+    "screenshots/01-memories.png",
+    "screenshots/02-merge.png",
+    "screenshots/03-restoration.png",
+    "screenshots/04-map.png"
+  ]
+}

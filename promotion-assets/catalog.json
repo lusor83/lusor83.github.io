@@ -1,0 +1,51 @@
+{
+  "publisher": "LuSor Games",
+  "website": "https://lusor83.github.io/",
+  "products": [
+    {
+      "slug": "nerelune",
+      "name": "Nerelune: Secrets of the Cove",
+      "type": "game",
+      "packageId": "com.lusor83.nerelune",
+      "officialPage": "https://lusor83.github.io/nerelune.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.nerelune",
+      "folder": "promotion-assets/nerelune"
+    },
+    {
+      "slug": "astral-fusion",
+      "name": "Astral Fusion",
+      "type": "game",
+      "packageId": "com.lusor83.stellarmerge",
+      "officialPage": "https://lusor83.github.io/astral-fusion.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.stellarmerge",
+      "folder": "promotion-assets/astral-fusion"
+    },
+    {
+      "slug": "life-unwritten",
+      "name": "Life Unwritten",
+      "type": "game",
+      "packageId": "com.lusor83.lifeunwritten",
+      "officialPage": "https://lusor83.github.io/life-unwritten.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.lifeunwritten",
+      "folder": "promotion-assets/life-unwritten"
+    },
+    {
+      "slug": "looktwist",
+      "name": "LookTwist",
+      "type": "game",
+      "packageId": "com.looktwist.game",
+      "officialPage": "https://lusor83.github.io/looktwist.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.looktwist.game",
+      "folder": "promotion-assets/looktwist"
+    },
+    {
+      "slug": "my-finance-forecast",
+      "name": "My Finance Forecast",
+      "type": "app",
+      "packageId": "com.lusor83.myfinanceforecast",
+      "officialPage": "https://lusor83.github.io/my-finance-forecast.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.myfinanceforecast",
+      "folder": "promotion-assets/my-finance-forecast"
+    }
+  ]
+}

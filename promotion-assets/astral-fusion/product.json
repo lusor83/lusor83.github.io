@@ -1,0 +1,16 @@
+{
+  "name": "Astral Fusion",
+  "type": "game",
+  "publisher": "LuSor Games",
+  "packageId": "com.lusor83.stellarmerge",
+  "officialPage": "https://lusor83.github.io/astral-fusion.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.stellarmerge",
+  "shortDescription": "A portrait-friendly cosmic merge game with physics, combos, collection and a 30-step evolution chain.",
+  "icon": "icon-reference.jpg",
+  "iconStatus": "temporary branded reference; official launcher icon is generated during Android release build",
+  "screenshots": [
+    "screenshots/01-menu.jpg",
+    "screenshots/02-gameplay.jpg",
+    "screenshots/03-collection.jpg"
+  ]
+}
