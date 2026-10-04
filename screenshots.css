@@ -66,3 +66,13 @@
     border-radius: 20px;
   }
 }
+
+/* Crop Android system status bar from the two legacy phone captures so the
+   public gallery shows the clean in-game framing used by the approved set. */
+.screenshot-image-link.crop-phone-ui {
+  overflow: hidden;
+}
+.screenshot-image-link.crop-phone-ui .screenshot-image {
+  transform: scale(1.045);
+  transform-origin: center bottom;
+}
