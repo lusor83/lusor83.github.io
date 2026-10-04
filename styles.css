@@ -99,6 +99,7 @@ h3 { font-size: 1.5rem; margin: 12px 0 10px; letter-spacing: -.025em; }
 .stellar { background: linear-gradient(145deg, #604cff, #a48bff); }
 .newhand { background: linear-gradient(145deg, #1bbaa4, #68e3cb); color: #051411; }
 .nerelune { background: linear-gradient(145deg, #2a6f86, #e3ba6b); color: #07101b; }
+.ruinshot { background: linear-gradient(145deg, #e06a3c, #5f677c); color: #0b0d12; }
 .status { font-size: .7rem; letter-spacing: .12em; font-weight: 800; color: var(--accent-2); }
 .status.released { color: #ffd878; }
 .card-link { display: inline-block; margin-top: 18px; color: var(--accent-2); font-weight: 750; }
