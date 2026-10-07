@@ -1,0 +1,29 @@
+name: Upload RuinShot banner
+on:
+  push:
+    paths:
+      - '.github/workflows/ruinshot-banner-upload.yml'
+permissions:
+  contents: write
+jobs:
+  upload:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download latest RuinShot banner
+        env:
+          BANNER_URL: "https://sdmntprnortheu.oaiusercontent.com/files/00000000-7234-81f4-81df-0b07ec3e90d6/raw?se=2026-10-07T14%3A43%3A38Z&sp=r&sv=2026-02-06&sr=b&scid=37a9e7f5-aee0-53cf-87d5-d61c154ba26e&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-10-07T04%3A43%3A39Z&ske=2026-10-08T04%3A43%3A39Z&sks=b&skv=2026-02-06&sig=edZ4H0VR3M7edCWq24hcNICA3/g0BW2aPlFRh3oJ1D8%3D"
+        run: |
+          mkdir -p images/ruinshot promotion-assets/ruinshot
+          curl -L --fail --retry 3 "$BANNER_URL" -o images/ruinshot/banner-main.jpg
+          cp images/ruinshot/banner-main.jpg promotion-assets/ruinshot/cover.jpg
+          file images/ruinshot/banner-main.jpg
+          ls -lh images/ruinshot/banner-main.jpg
+      - name: Commit banner
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/ruinshot/banner-main.jpg promotion-assets/ruinshot/cover.jpg
+          git commit -m "Replace RuinShot banner with latest artwork [skip ci]"
+          git push
