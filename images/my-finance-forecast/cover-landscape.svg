@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 864" role="img" aria-labelledby="t d">
+<title id="t">My Finance Forecast landscape cover</title><desc id="d">Professional blue finance dashboard key art for My Finance Forecast.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#031426"/><stop offset=".52" stop-color="#0754a8"/><stop offset="1" stop-color="#0bb9dc"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2ee7e0"/><stop offset="1" stop-color="#20a9ff"/></linearGradient>
+<filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1536" height="864" fill="url(#bg)"/>
+<circle cx="1335" cy="80" r="360" fill="#63dfff" opacity=".1"/><circle cx="145" cy="790" r="330" fill="#0068ff" opacity=".18"/>
+<g transform="translate(88 116)">
+<rect width="170" height="170" rx="38" fill="#06356e" stroke="#50d8ff" stroke-width="4"/>
+<path d="M36 123h27V94H36zm38 0h27V70H74zm38 0h27V45h-27z" fill="url(#cyan)"/>
+<path d="M32 74C75 63 93 48 136 19" fill="none" stroke="#52f0e9" stroke-width="10" stroke-linecap="round"/>
+<path d="m126 18 17-2-4 17" fill="none" stroke="#52f0e9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="#fff"><text x="302" y="205" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="800">My Finance</text><text x="302" y="294" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="800" fill="#4be8ef">Forecast</text><text x="305" y="357" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="8" fill="#d8efff">PLAN TODAY · SEE TOMORROW</text></g>
+<g transform="translate(820 70) rotate(5 280 360)" filter="url(#sh)">
+<rect width="560" height="724" rx="58" fill="#081629" stroke="#7bdfff" stroke-width="5"/>
+<rect x="34" y="45" width="492" height="162" rx="25" fill="#0b3970"/>
+<text x="66" y="90" font-family="Arial" font-size="24" fill="#c8def8">Projected balance</text><text x="66" y="150" font-family="Arial" font-size="58" font-weight="700" fill="#fff">€24,650</text>
+<polyline points="65,187 135,175 205,155 275,160 345,122 415,105 490,74" fill="none" stroke="#53f0d8" stroke-width="6"/>
+<g fill="#53f0d8"><circle cx="65" cy="187" r="7"/><circle cx="135" cy="175" r="7"/><circle cx="205" cy="155" r="7"/><circle cx="275" cy="160" r="7"/><circle cx="345" cy="122" r="7"/><circle cx="415" cy="105" r="7"/><circle cx="490" cy="74" r="7"/></g>
+<rect x="34" y="232" width="492" height="220" rx="25" fill="#0a2a50"/><text x="66" y="278" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Cash-flow forecast</text>
+<g fill="#21b6ff"><rect x="82" y="357" width="28" height="55" rx="6"/><rect x="155" y="335" width="28" height="77" rx="6"/><rect x="228" y="319" width="28" height="93" rx="6"/><rect x="301" y="294" width="28" height="118" rx="6"/><rect x="374" y="271" width="28" height="141" rx="6"/></g>
+<g fill="#55e4a8"><rect x="114" y="345" width="18" height="67" rx="5"/><rect x="187" y="320" width="18" height="92" rx="5"/><rect x="260" y="303" width="18" height="109" rx="5"/><rect x="333" y="275" width="18" height="137" rx="5"/><rect x="406" y="245" width="18" height="167" rx="5"/></g>
+<rect x="34" y="477" width="492" height="204" rx="25" fill="#0a2443"/><text x="66" y="524" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Upcoming</text>
+<text x="66" y="581" font-family="Arial" font-size="22" fill="#d5e9ff">Home · Apr 1</text><text x="420" y="581" font-family="Arial" font-size="22" fill="#fff">-€1,200</text>
+<line x1="66" x2="494" y1="602" y2="602" stroke="#24466a"/><text x="66" y="645" font-family="Arial" font-size="22" fill="#d5e9ff">Vacation savings</text><text x="420" y="645" font-family="Arial" font-size="22" fill="#fff">-€300</text>
+</g>
+<g transform="translate(95 565)" font-family="Arial" fill="#d9efff"><text x="0" y="0" font-size="25" font-weight="700">FORECAST</text><text x="0" y="42" font-size="19">Future balances and cash flow</text><text x="285" y="0" font-size="25" font-weight="700">PLAN</text><text x="285" y="42" font-size="19">Goals, trips and vehicles</text><text x="555" y="0" font-size="25" font-weight="700">CONTROL</text><text x="555" y="42" font-size="19">Know what comes next</text></g>
+</svg>
