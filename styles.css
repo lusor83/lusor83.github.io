@@ -208,13 +208,14 @@ body[data-page="life-unwritten"] .product-hero:after{background-image:url("image
 body[data-page="looktwist"] .product-hero:after{background-image:url("images/looktwist/pixelpicked-cover.webp")}
 body[data-page="my-finance-forecast"] .product-hero:after{background-image:url("images/my-finance-forecast/banner-main.jpg?v=1")}
 body[data-page="baggage-color-flow"] .product-hero:after{background-image:url("images/baggage-color-flow/banner-main.jpg?v=1")}
+body[data-page="ruinshot"] .product-hero:after{background-image:url("images/ruinshot/banner-main.png?v=1")}
 .product-hero-grid{display:grid;grid-template-columns:1fr .62fr;gap:64px;align-items:center}
 .product-badge{
   width:175px;height:175px;margin-inline:auto;border-radius:38px;display:grid;place-items:center;
   font-size:4rem;font-weight:900;color:#fff;background:linear-gradient(145deg,#0b5cd2,#25c8ff);
   border:1px solid rgba(112,213,255,.36);box-shadow:0 22px 80px rgba(0,126,255,.26);backdrop-filter:blur(6px)
 }
-.product-badge.looktwist-badge,.product-badge.stellar-badge,.product-badge.life-badge,.product-badge.nerelune-badge,.product-badge.baggage-badge{background:linear-gradient(145deg,#0b5cd2,#25c8ff);color:#fff}
+.product-badge.looktwist-badge,.product-badge.stellar-badge,.product-badge.life-badge,.product-badge.nerelune-badge,.product-badge.baggage-badge,.product-badge.ruinshot-badge{background:linear-gradient(145deg,#0b5cd2,#25c8ff);color:#fff}
 
 .press-resources{background:linear-gradient(90deg,rgba(0,112,255,.08),transparent)}
 .notice{padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(7,29,52,.72)}
