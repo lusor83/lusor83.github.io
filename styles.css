@@ -207,7 +207,7 @@ body[data-page="astral-fusion"] .product-hero:after{background-image:url("images
 body[data-page="life-unwritten"] .product-hero:after{background-image:url("images/life-unwritten/pixelpicked-cover.webp")}
 body[data-page="looktwist"] .product-hero:after{background-image:url("images/looktwist/pixelpicked-cover.webp")}
 body[data-page="my-finance-forecast"] .product-hero:after{background-image:url("images/my-finance-forecast/banner-main.jpg?v=1")}
-body[data-page="baggage-color-flow"] .product-hero:after{background-image:url("images/baggage-color-flow/menu.jpg")}
+body[data-page="baggage-color-flow"] .product-hero:after{background-image:url("images/baggage-color-flow/banner-main.jpg?v=1")}
 .product-hero-grid{display:grid;grid-template-columns:1fr .62fr;gap:64px;align-items:center}
 .product-badge{
   width:175px;height:175px;margin-inline:auto;border-radius:38px;display:grid;place-items:center;
