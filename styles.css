@@ -188,10 +188,10 @@ h3{font-size:1.28rem;margin:10px 0 9px;letter-spacing:-.025em}
   content:"";position:absolute;inset:0 0 0 46%;z-index:-1;opacity:.45;background-position:center;background-size:cover;
   mask-image:linear-gradient(90deg,transparent,black 35%)
 }
-body[data-page="nerelune"] .product-hero:after{background-image:url("images/nerelune/map.png")}
-body[data-page="astral-fusion"] .product-hero:after{background-image:url("images/astral-fusion/gameplay.jpg")}
-body[data-page="life-unwritten"] .product-hero:after{background-image:url("images/life-unwritten/planning.jpg")}
-body[data-page="looktwist"] .product-hero:after{background-image:url("images/looktwist/gameplay.jpg")}
+body[data-page="nerelune"] .product-hero:after{background-image:url("images/nerelune/pixelpicked-cover.webp")}
+body[data-page="astral-fusion"] .product-hero:after{background-image:url("images/astral-fusion/pixelpicked-cover.webp")}
+body[data-page="life-unwritten"] .product-hero:after{background-image:url("images/life-unwritten/pixelpicked-cover.webp")}
+body[data-page="looktwist"] .product-hero:after{background-image:url("images/looktwist/pixelpicked-cover.webp")}
 body[data-page="my-finance-forecast"] .product-hero:after{background-image:url("images/my-finance-forecast/home.jpg")}
 body[data-page="baggage-color-flow"] .product-hero:after{background-image:url("images/baggage-color-flow/menu.jpg")}
 .product-hero-grid{display:grid;grid-template-columns:1fr .62fr;gap:64px;align-items:center}
