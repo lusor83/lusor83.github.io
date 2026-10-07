@@ -159,6 +159,8 @@ h3{font-size:1.28rem;margin:10px 0 9px;letter-spacing:-.025em}
 .project-meta:before{content:"●";color:#28bfff;font-size:.7rem}
 .project-link{display:inline-flex;margin-top:16px;color:#6edaff;font-weight:760;font-size:.9rem}
 .project-link:hover{color:#fff}
+.project-play-badge{display:flex;width:max-content;margin-top:14px}
+.project-play-badge img{height:42px}
 .status{display:inline-flex;font-size:.67rem;letter-spacing:.1em;font-weight:850;color:#73e4ff;text-transform:uppercase}
 .status.released{color:#81e9ff}
 
