@@ -1,4 +1,15 @@
 (() => {
+  document.querySelectorAll('.brand').forEach((brand) => {
+    if (!brand.querySelector('.brand-logo')) {
+      const img = document.createElement('img');
+      img.className = 'brand-logo';
+      img.src = '/logo-dlf-neon-cropped.jpg?v=5';
+      img.alt = 'DLF Technology';
+      img.decoding = 'async';
+      brand.prepend(img);
+    }
+  });
+
   const UTM_KEYS = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term'];
   const params = new URLSearchParams(window.location.search);
   const current = {};
