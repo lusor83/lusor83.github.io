@@ -1,0 +1,35 @@
+{
+  "slug": "baggage-color-flow",
+  "name": "Baggage Color Flow",
+  "type": "game",
+  "packageId": "com.lusor83.baggagecolorflow",
+  "status": "published",
+  "officialPage": "https://lusor83.github.io/baggage-color-flow.html",
+  "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.baggagecolorflow",
+  "folder": "promotion-assets/baggage-color-flow",
+  "pressKit": "https://lusor83.github.io/press/baggage-color-flow.html",
+  "datePublished": "2026-10-30",
+  "publisher": "LuSor Games / DLF Technology",
+  "platform": "Android",
+  "monetization": "Free with advertisements; no in-app purchases",
+  "publicReleaseVerified": true,
+  "shortDescription": "Route colorful luggage through conveyor switches and matching gates across 50 airport puzzles.",
+  "features": [
+    "50 levels",
+    "Color and symbol matching",
+    "Rotating conveyor diverters",
+    "Waiting bays",
+    "Move targets and three-star scoring",
+    "Portrait interface",
+    "Local progress",
+    "English and Italian"
+  ],
+  "screenshots": [
+    "https://lusor83.github.io/images/baggage-color-flow/runtime-level-05.png",
+    "https://lusor83.github.io/images/baggage-color-flow/runtime-level-18.png",
+    "https://lusor83.github.io/images/baggage-color-flow/runtime-level-35.png",
+    "https://lusor83.github.io/images/baggage-color-flow/runtime-level-50.png"
+  ],
+  "assetProvenance": "https://lusor83.github.io/promotion-assets/campaign-2026-11/provenance.json",
+  "lastVerified": "2026-11-01"
+}

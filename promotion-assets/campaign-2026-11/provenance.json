@@ -1,0 +1,86 @@
+{
+  "publisher": "LuSor Games / DLF Technology",
+  "updated": "2026-11-01",
+  "assets": [
+    {
+      "file": "images/baggage-color-flow/feature-1024x500.png",
+      "width": 1024,
+      "height": 500,
+      "bytes": 1221236,
+      "sha256": "6f2910a536d98a4ed9155c1159796e5ac5c3a48f2d85ece36eabc649a0fe32ed",
+      "provenance": "Illustrative official key art; not a gameplay screenshot."
+    },
+    {
+      "file": "images/baggage-color-flow/icon-512.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 547183,
+      "sha256": "b8bc56660eb5eb5a330b4000e29f2ea33be941de3541901607c43ecc842034a6",
+      "provenance": "Official application icon."
+    },
+    {
+      "file": "images/baggage-color-flow/runtime-level-05.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 845510,
+      "sha256": "5b4200631032101b66fefe5cc02f35565cf99b3c5bb5b2d68c1c29524ecac51c",
+      "provenance": "Authentic, unretouched Unity runtime capture in Italian, 1080x1920. Same game renderer as Android; not a photograph or a physical-device capture."
+    },
+    {
+      "file": "images/baggage-color-flow/runtime-level-18.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 849458,
+      "sha256": "050e77149f3dfd069e9fcbd202fd3921bec1ae918a38c982945f7fb685687505",
+      "provenance": "Authentic, unretouched Unity runtime capture in Italian, 1080x1920. Same game renderer as Android; not a photograph or a physical-device capture."
+    },
+    {
+      "file": "images/baggage-color-flow/runtime-level-35.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 774998,
+      "sha256": "15b6a252fddba3b58575e7843e6fe2095867579eb64dca692c0fccce349aad42",
+      "provenance": "Authentic, unretouched Unity runtime capture in Italian, 1080x1920. Same game renderer as Android; not a photograph or a physical-device capture."
+    },
+    {
+      "file": "images/baggage-color-flow/runtime-level-50.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 778568,
+      "sha256": "9f214604c1f34c9de6cd0348fbb0daef4b81dd29f8bbca927b6914d24a3332e6",
+      "provenance": "Authentic, unretouched Unity runtime capture in Italian, 1080x1920. Same game renderer as Android; not a photograph or a physical-device capture."
+    },
+    {
+      "file": "images/ruinshot/01-campaign.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 758403,
+      "sha256": "07ce74dc4a2fe5c8261aab6790697b26a0f14cbb61391589cad532ed1d8a8078",
+      "provenance": "Authentic Godot desktop capture from the compiled release resource pack, 1920x1080; gameplay is unchanged in the RC5 audio fix. Not an Android-device capture. Native Android advertisements are not displayed in these desktop captures."
+    },
+    {
+      "file": "images/ruinshot/02-fortress-lab.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 596923,
+      "sha256": "16839a105ca3f914350fecea755f0521215e6392070cf29d4bf2011807ae1ee6",
+      "provenance": "Authentic Godot desktop capture from the compiled release resource pack, 1920x1080; gameplay is unchanged in the RC5 audio fix. Not an Android-device capture. Native Android advertisements are not displayed in these desktop captures."
+    },
+    {
+      "file": "images/ruinshot/03-foundry-battle.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1745910,
+      "sha256": "38a52a2323bbd3bcfbc44cfb7a1fde3226d948c67ae8ba3751030a099ad32142",
+      "provenance": "Authentic Godot desktop capture from the compiled release resource pack, 1920x1080; gameplay is unchanged in the RC5 audio fix. Not an Android-device capture. Native Android advertisements are not displayed in these desktop captures."
+    },
+    {
+      "file": "images/ruinshot/04-aiming.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1747567,
+      "sha256": "70743bd07ef7bcee7186be73c47c46c13c4f237b2a773129dfb16aecf148c6b3",
+      "provenance": "Authentic Godot desktop capture from the compiled release resource pack, 1920x1080; gameplay is unchanged in the RC5 audio fix. Not an Android-device capture. Native Android advertisements are not displayed in these desktop captures."
+    }
+  ]
+}

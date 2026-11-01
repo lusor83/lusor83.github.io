@@ -9,7 +9,8 @@
       "packageId": "com.lusor83.nerelune",
       "officialPage": "https://lusor83.github.io/nerelune.html",
       "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.nerelune",
-      "folder": "promotion-assets/nerelune"
+      "folder": "promotion-assets/nerelune",
+      "status": "published"
     },
     {
       "slug": "astral-fusion",
@@ -18,7 +19,8 @@
       "packageId": "com.lusor83.stellarmerge",
       "officialPage": "https://lusor83.github.io/astral-fusion.html",
       "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.stellarmerge",
-      "folder": "promotion-assets/astral-fusion"
+      "folder": "promotion-assets/astral-fusion",
+      "status": "published"
     },
     {
       "slug": "life-unwritten",
@@ -27,7 +29,8 @@
       "packageId": "com.lusor83.lifeunwritten",
       "officialPage": "https://lusor83.github.io/life-unwritten.html",
       "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.lifeunwritten",
-      "folder": "promotion-assets/life-unwritten"
+      "folder": "promotion-assets/life-unwritten",
+      "status": "published"
     },
     {
       "slug": "looktwist",
@@ -36,7 +39,8 @@
       "packageId": "com.looktwist.game",
       "officialPage": "https://lusor83.github.io/looktwist.html",
       "googlePlay": "https://play.google.com/store/apps/details?id=com.looktwist.game",
-      "folder": "promotion-assets/looktwist"
+      "folder": "promotion-assets/looktwist",
+      "status": "published"
     },
     {
       "slug": "my-finance-forecast",
@@ -45,7 +49,31 @@
       "packageId": "com.lusor83.myfinanceforecast",
       "officialPage": "https://lusor83.github.io/my-finance-forecast.html",
       "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.myfinanceforecast",
-      "folder": "promotion-assets/my-finance-forecast"
+      "folder": "promotion-assets/my-finance-forecast",
+      "status": "published"
+    },
+    {
+      "slug": "baggage-color-flow",
+      "name": "Baggage Color Flow",
+      "type": "game",
+      "packageId": "com.lusor83.baggagecolorflow",
+      "status": "published",
+      "officialPage": "https://lusor83.github.io/baggage-color-flow.html",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.lusor83.baggagecolorflow",
+      "folder": "promotion-assets/baggage-color-flow",
+      "pressKit": "https://lusor83.github.io/press/baggage-color-flow.html",
+      "datePublished": "2026-10-30"
+    },
+    {
+      "slug": "ruinshot",
+      "name": "RuinShot",
+      "type": "game",
+      "packageId": "com.lusor83.ruinshot",
+      "status": "coming-soon",
+      "officialPage": "https://lusor83.github.io/ruinshot.html",
+      "googlePlay": null,
+      "folder": "promotion-assets/ruinshot",
+      "pressKit": "https://lusor83.github.io/press/ruinshot.html"
     }
   ]
 }
