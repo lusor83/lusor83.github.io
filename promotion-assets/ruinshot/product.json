@@ -1,0 +1,34 @@
+{
+  "slug": "ruinshot",
+  "name": "RuinShot",
+  "type": "game",
+  "packageId": "com.lusor83.ruinshot",
+  "status": "coming-soon",
+  "officialPage": "https://lusor83.github.io/ruinshot.html",
+  "googlePlay": null,
+  "folder": "promotion-assets/ruinshot",
+  "pressKit": "https://lusor83.github.io/press/ruinshot.html",
+  "publisher": "LuSor Games / DLF Technology",
+  "platform": "Android",
+  "monetization": "Free with advertisements; no in-app purchases",
+  "publicReleaseVerified": false,
+  "shortDescription": "Build modular fortresses and aim ballistic shots in a destructible turn-based battlefield.",
+  "features": [
+    "20 single-player campaign missions",
+    "Five ballistic weapons",
+    "Five destructible arenas",
+    "Modular Fortress Lab",
+    "Local two-player pass-and-play",
+    "Standalone CPU battles",
+    "Interactive tutorial",
+    "Music and sound effects"
+  ],
+  "screenshots": [
+    "https://lusor83.github.io/images/ruinshot/01-campaign.png",
+    "https://lusor83.github.io/images/ruinshot/02-fortress-lab.png",
+    "https://lusor83.github.io/images/ruinshot/03-foundry-battle.png",
+    "https://lusor83.github.io/images/ruinshot/04-aiming.png"
+  ],
+  "assetProvenance": "https://lusor83.github.io/promotion-assets/campaign-2026-11/provenance.json",
+  "lastVerified": "2026-11-01"
+}
