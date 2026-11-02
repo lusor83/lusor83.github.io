@@ -1,4 +1,5 @@
-RuinShot — coming soon to Android. Public availability is pending; no release date is announced.
+RuinShot — available on Google Play. Production build 14 verified 2 November 2026.
+Google Play: https://play.google.com/store/apps/details?id=com.lusor83.ruinshot
 20 missions, five weapons, modular fortresses and local two-player pass-and-play.
 
 Official page: https://lusor83.github.io/ruinshot.html
