@@ -13,5 +13,24 @@
     "screenshots/03-relationships.jpg",
     "screenshots/04-calendar.jpg",
     "screenshots/05-challenge-result.jpg"
-  ]
+  ],
+  "englishGameplay": {
+    "title": "ONE CHOICE RUINED MY LIFE",
+    "url": "https://youtube.com/shorts/PsQ9zQt8v6o",
+    "published": "2026-11-03",
+    "durationSeconds": 27,
+    "gameplayLanguage": "en",
+    "captionLanguage": "en",
+    "voiceover": true,
+    "source": "Authentic Android gameplay; edited cuts",
+    "music": "None; narration only",
+    "audioLanguages": [
+      "en",
+      "it"
+    ],
+    "subtitleLanguages": [
+      "en",
+      "it"
+    ]
+  }
 }

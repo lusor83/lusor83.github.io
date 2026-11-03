@@ -12,5 +12,24 @@
     "screenshots/01-menu.jpg",
     "screenshots/02-gameplay.jpg",
     "screenshots/03-collection.jpg"
-  ]
+  ],
+  "englishGameplay": {
+    "title": "ONE DROP FROM VICTORY",
+    "url": "https://youtube.com/shorts/Q2km9Vz813w",
+    "published": "2026-11-03",
+    "durationSeconds": 27,
+    "gameplayLanguage": "en",
+    "captionLanguage": "en",
+    "voiceover": true,
+    "source": "Authentic Android gameplay; edited cuts",
+    "music": "None; narration only",
+    "audioLanguages": [
+      "en",
+      "it"
+    ],
+    "subtitleLanguages": [
+      "en",
+      "it"
+    ]
+  }
 }
