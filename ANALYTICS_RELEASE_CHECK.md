@@ -11,3 +11,13 @@ The central web integration is blocked on a verified web stream/measurement ID a
 Deployment requires owner production approval. Review this PR and preview the pages first. After deployment, verify the public CTA, official package ID and canonical URLs; confirm no Analytics requests/storage before opt-in and no further sends/storage after revocation. Then validate actual first-open attribution separately from click events.
 
 App telemetry coverage: Astral has Firebase/GA4 gameplay events and automatic SDK events, with exact-build Android 10 evidence; its developer filter is still Test and commercial cohorts are not certified clean. LookTwist has bounded local diagnostics, not a verified remote funnel. Baggage and Life app-specific remote progression/retention are not verified. Nerelune uses its existing Android bridge; central GA4 coverage is unverified. RuinShot has Play and AdMob reports, with no verified GA4 gameplay funnel. My Finance Forecast app-level GA4 coverage is unverified. Play store visitors/Install clicks, Play acquisitions and AdMob requests/impressions/revenue must retain separate definitions and periods for every product.
+
+# Campaign 3.0 — 3 November 2026
+
+Three English Android gameplay pilots are public on RacingHub and verified anonymously through YouTube oEmbed with matching titles and author. The three press kits, product JSON, README and creator ZIP include those links and truthful outcome context. The partner page gives these games priority without removing RuinShot or Baggage materials. No private Drive assets, metrics or QA logs are included in the public site.
+
+Life: https://youtube.com/shorts/3eyEgai7CKE
+Astral: https://youtube.com/shorts/2BT2FnKZrm4
+Nerelune: https://youtube.com/shorts/xStyPXXzKns
+
+Deployment remains gated on owner approval; publishing a Short does not deploy this PR or change any game release. Central analytics remains unconfigured.
