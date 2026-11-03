@@ -15,13 +15,21 @@
   ],
   "englishGameplay": {
     "title": "ONE MERGE AWAY",
-    "url": "https://youtube.com/shorts/xStyPXXzKns",
+    "url": "https://youtube.com/shorts/MA91SYCDe04",
     "published": "2026-11-03",
     "durationSeconds": 27,
     "gameplayLanguage": "en",
     "captionLanguage": "en",
-    "voiceover": false,
+    "voiceover": true,
     "source": "Authentic Android gameplay; edited cuts",
-    "music": "Original instrumental composition and sound design"
+    "music": "None; narration only",
+    "audioLanguages": [
+      "en",
+      "it"
+    ],
+    "subtitleLanguages": [
+      "en",
+      "it"
+    ]
   }
 }

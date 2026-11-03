@@ -14,10 +14,10 @@ App telemetry coverage: Astral has Firebase/GA4 gameplay events and automatic SD
 
 # Campaign 3.0 — 3 November 2026
 
-Three English Android gameplay pilots are public on RacingHub and verified anonymously through YouTube oEmbed with matching titles and author. The three press kits, product JSON, README and creator ZIP include those links and truthful outcome context. The partner page gives these games priority without removing RuinShot or Baggage materials. No private Drive assets, metrics or QA logs are included in the public site.
+Three narrated Android gameplay pilots are public on RacingHub and verified anonymously through YouTube oEmbed with exact titles and author. Each new Short has original English narration, a published selectable Italian track, and manually supplied subtitles in both languages. Music is removed. The three press kits and product JSON link to these narrated revisions and retain truthful outcome context. The earlier musical uploads are historical. The partner page gives these games priority without removing RuinShot or Baggage materials. No private Drive assets, metrics or QA logs are included in the public site.
 
-Life: https://youtube.com/shorts/3eyEgai7CKE
-Astral: https://youtube.com/shorts/2BT2FnKZrm4
-Nerelune: https://youtube.com/shorts/xStyPXXzKns
+Life: https://youtube.com/shorts/PsQ9zQt8v6o
+Astral: https://youtube.com/shorts/Q2km9Vz813w
+Nerelune: https://youtube.com/shorts/MA91SYCDe04
 
 Deployment remains gated on owner approval; publishing a Short does not deploy this PR or change any game release. Central analytics remains unconfigured.

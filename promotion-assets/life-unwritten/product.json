@@ -16,13 +16,21 @@
   ],
   "englishGameplay": {
     "title": "ONE CHOICE RUINED MY LIFE",
-    "url": "https://youtube.com/shorts/3eyEgai7CKE",
+    "url": "https://youtube.com/shorts/PsQ9zQt8v6o",
     "published": "2026-11-03",
     "durationSeconds": 27,
     "gameplayLanguage": "en",
     "captionLanguage": "en",
-    "voiceover": false,
+    "voiceover": true,
     "source": "Authentic Android gameplay; edited cuts",
-    "music": "Original instrumental composition and sound design"
+    "music": "None; narration only",
+    "audioLanguages": [
+      "en",
+      "it"
+    ],
+    "subtitleLanguages": [
+      "en",
+      "it"
+    ]
   }
 }
