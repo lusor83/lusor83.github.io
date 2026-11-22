@@ -30,9 +30,9 @@ Other GitHub projects (e.g. PartySketch Studio, SafePath and FoodPilot) are not 
 
 1. **Inventory** every game, render and Blender project.
 2. **Build/QA** every viable web candidate and commercial bundle; gather genuine screenshots/previews and metadata.
-3. **Create draft product pages** for eligible games on itch.io and candidate submissions on CrazyGames. Use itch.io butler for binary uploads with the account owner's own API token stored locally, never in GitHub.
-4. **Upload technically compliant, distinct stock footage** to Adobe Stock, and to Pond5 only if proven eligible. Keep a submission log with statuses/identifiers.
-5. **After owner review**, publish live listings; track acceptance/rejections, gameplay/traffic and royalties, and revise candidates rejected for fixable reasons.
+3. **Create and publish eligible game/product pages** on itch.io and submit verified browser candidates to CrazyGames using authorized authenticated accounts. Use itch.io butler where supported, with credentials held locally, never in GitHub.
+4. **Submit all distinct, eligible stock footage** to Adobe Stock; submit to Pond5 only where confirmed compliant. Log actual submission IDs and statuses.
+5. **No per-item approval required** for validated, original, free-to-publish listings. Keep track of acceptance, moderation, rejections, analytics, and revenue. Report every published, submitted or blocked item with actual evidence.
 
 ## Non-negotiable controls
 - Don't change current production games or claim all games are completed just because source repos exist.
@@ -44,4 +44,15 @@ Other GitHub projects (e.g. PartySketch Studio, SafePath and FoodPilot) are not 
 - Keep a CSV/JSON submission report with each product, portal, upload identifier, date, actual moderation status and public URL.
 
 ## Codex batch objective
-> Inspect all games listed above and all files under D:\\KinetiDrop. Prepare every commercially viable build/asset product without an arbitrary limit of 2 games, 5 videos or 1 pack. Group duplicates and near-duplicates; ensure QA and rights compliance. Produce all packages, true English listing copy, metadata, checksums and test logs, plus an action plan for the account-holder login/upload steps. Keep production branches untouched and do not publish or purchase anything without separate instruction.
+> Inspect all games listed above and all files under D:\\KinetiDrop. Prepare and **actually publish/submit** every eligible commercial game build, distinct video and asset pack using the owner's authenticated marketplace accounts (CrazyGames, itch.io, Adobe Stock, Pond5 as applicable). The owner explicitly authorized publication of commercially compliant content without additional per-item review. Run actual functional and license QA, record true listing names, URLs/IDs, prices, terms, checksums, upload timestamps and moderation statuses. Do not claim completion without an actual successful remote submission, and do not confuse “pending review” with “published.” Avoid duplicate/spam uploads. Keep existing production game releases untouched unless required and safe. Never spend money, purchase ads, enroll in paid plans, grant exclusivity, accept new binding paid commitments, or publish content without verified redistribution rights. Pause only when legal identity/tax/payment verification, login/MFA, or uncertain rights require owner involvement. Deliver an evidence-backed summary at completion.
+
+
+## Explicit owner authorization — 2026-11-22
+
+The owner authorizes the operator/Codex to **publish or submit** the full set of newly prepared, verified content to the four marketplace accounts, **without a separate confirmation for each listing**. This updates the earlier “do not publish” instructions in this plan; it does not override platform law, safety, licensing or user-account authentication requirements.
+
+- **Permitted**: technical adaptation, QA, royalty-free resale of wholly owned assets, approved creator-account listing creation, non-exclusive distribution and commercially reasonable listing prices with recorded rationale, submission and publication where allowed, correction of rejected compliant items, and final reporting.
+- **Not permitted**: unverified content rights, unauthorized use of copyrighted music, reuse/resale of third-party source assets without redistribution license, AI-labeled footage incorrectly represented, duplicate flooding, purchases or ad spend, fee-bearing subscriptions, exclusive contracts, transferring IP ownership, publishing private repository source code instead of compiled games, disclosure of account/payment credentials, and bypassing moderation.
+- **Needs owner action**: mandatory identity checks, tax declarations, payout account setup, login challenges, terms requiring a verified personal act, or a substantive legal/licensing uncertainty.
+- **Completion report**: one row per artifact and per destination with source repo/path, release build checksum, true product title, price (if any), platform, submission/listing ID, public URL (if available), exact status (draft/submitted/in-review/approved/live/rejected/blocked), evidence reference, reason if blocked, and any immediate sales data actually available. Include a separate summary of ready-but-not-uploaded and excluded items; never invent acceptance or sales.
+- **Where to save**: a dated report and machine-readable CSV in a dedicated local or GitHub report location, omitting credentials and sensitive personal data. Deliver a plain-language recap to the owner when the run ends; do not claim future monitoring unless it is actually scheduled.
