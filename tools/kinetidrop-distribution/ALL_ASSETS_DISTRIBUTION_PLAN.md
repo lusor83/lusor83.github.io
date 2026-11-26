@@ -56,3 +56,39 @@ The owner authorizes the operator/Codex to **publish or submit** the full set of
 - **Needs owner action**: mandatory identity checks, tax declarations, payout account setup, login challenges, terms requiring a verified personal act, or a substantive legal/licensing uncertainty.
 - **Completion report**: one row per artifact and per destination with source repo/path, release build checksum, true product title, price (if any), platform, submission/listing ID, public URL (if available), exact status (draft/submitted/in-review/approved/live/rejected/blocked), evidence reference, reason if blocked, and any immediate sales data actually available. Include a separate summary of ready-but-not-uploaded and excluded items; never invent acceptance or sales.
 - **Where to save**: a dated report and machine-readable CSV in a dedicated local or GitHub report location, omitting credentials and sensitive personal data. Deliver a plain-language recap to the owner when the run ends; do not claim future monitoring unless it is actually scheduled.
+
+
+## Permanent workflow for every new KinetiDrop video — owner decision 2026-11-26
+
+**Priority and scope:** KinetiDrop video production is the primary activity. Commercial distribution is a mandatory downstream step for every new completed production, not a separate creative assignment. Apply this section to all future KinetiDrop episodes and formats in the local workspace, even when the initial request only concerns producing a video. It supersedes older destination lists and session-specific no-upload instructions for eligible commercial assets; it does not override separate social-video approval gates, rights, platform rules or safety requirements. Do not change RacingHub or game releases.
+
+### Production-to-market deliverables
+- Produce the approved social video and retain its editable Blender source, scripts, dependencies, textures/materials, reusable geometry, and render settings.
+- Save clean original footage without social text, watermark, third-party music or branding; choose useful distinct commercial clips (native dimensions and frame rate, ProRes MOV or another accepted format where appropriate). Preserve the best available master; do not upscale or claim unsupported quality.
+- Where the video yields a genuinely useful distinct asset, assemble a coherent Blender pack with relative/packed dependencies, a tested archive, README, license, representative actual previews, version/engine information and checksum. Optional FBX/OBJ/glTF only when compatible with the asset and tested; do not promise lossless animation/material transfer.
+- Prepare English commercial title, description, relevant tags, technical specifications, pricing and provenance. Document actual human creative direction, editing and post-production and the use of AI-assisted scripting and workflow automation accurately; use the agreed wording when truthful: “Original 3D animations created in Blender, with human creative direction, editing and post-production, supported by AI-assisted scripting and workflow automation.” Complete mandatory platform declarations truthfully. Do not claim manual authorship or omit required disclosures.
+- QA the actual files, archive, dependency integrity, previews, license, third-party rights and platform-specific requirements. Do not duplicate previous products or near-identical footage. If no commercially meaningful asset/clip results, record the reason rather than creating filler.
+
+### Routing and current marketplace gates
+| Marketplace | Material | Operational rule |
+|---|---|---|
+| itch.io | Blender packs and relevant bundles | Active; publish eligible new products. |
+| Gumroad | Blender packs, bundles and clean downloadable footage packs | Active; publish eligible products, use EUR and coherent pricing. |
+| CGTrader | Compatible 3D models/Blender packs | Active; publish eligible assets with accurate mandatory disclosures. Do not relist a suspended item or bypass review. |
+| Superhive | Blender assets/templates | Creator and PayPal configured; first product Kinetic Wave Studio in review as of 2026-11-26. Submit subsequent assets only when permitted; queue eligible packages locally meanwhile. Verify current Blender/version and creator rules. |
+| Fab | Compatible 3D assets | Trader verification currently Retry required. Queue locally until onboarding, tax and payout are complete and upload is enabled. |
+| MotionElements | Distinct original stock footage | Contributor application submitted; wait for approval and verify current content/disclosure policy. |
+| Adobe Stock | Eligible stock footage | Contributor onboarding blocked by SMS; queue compliant footage until resolved. |
+| Shutterstock | Eligible stock footage | Contributor setup incomplete; verify content policy and eligibility before any submission. |
+| Pond5 | Only independently eligible material | Support explicitly confirmed on 2026-11-25 that both AI-generated and AI-assisted content are not approved. Do not submit the current AI-assisted KinetiDrop workflow to Pond5. Retain the verified account for genuinely eligible future material only, unless written policy clarification changes. |
+
+These are the recorded gates as of 2026-11-26, not permanent assumptions. Refresh relevant remote status and policy before submission. No need to recheck an unchanged blocked destination repeatedly during a single run. Keep a local queue and resume when the gate is legitimately cleared.
+
+### Execution and acceptance
+1. Once a new video is finalized, automatically carry out the commercial packaging and distribution step in the same workflow. The owner authorizes actual upload, submission and publication of eligible commercial derivatives on the listed authorized marketplaces without per-item confirmation. If a destination is blocked, continue on the others. Use authenticated authorized sessions, no new paid services, spend, exclusivity or changes to personal, tax or banking data.
+2. Request owner intervention only for genuinely required authentication, identity, legal attestations, new binding terms, payment setup, unresolved rights/compliance or expenditure. Never bypass moderation or eligibility gates. Do not treat a draft, upload or moderation submission as a live product.
+3. Use existing commercial prices as reference, avoid needless price changes, and record a rationale for new prices. Where appropriate use commercial product links in social captions/descriptions with the platform's permitted link format; preserve any existing separate social publishing approvals.
+4. Update the existing Google Drive operational tracker (LuSor / DLF — Tracker operativo: https://docs.google.com/spreadsheets/d/1rZ3Wa9FzF09frPpNncgTeVPs5g79zowD3u8mGEhR6Xs/edit) in Catalogo, Canali, Roadmap and Log Codex. Preserve formulas and append-only history. For each asset and destination, record source project, archive/checksum, price/currency, listing/submission ID, public URL, status, date and evidence. Record actual sales only with evidence.
+5. Deliver a short release report per video: social deliverable, commercial derivatives, products live/acquirable, in review, queued, excluded or blocked, prices and URLs, and only the actions genuinely requiring the owner. Never invent sales or acceptance. Keep binary files, credentials, account documents and sensitive data local, outside Git.
+
+**Definition of done:** a finished video is not the end of the commercial workflow. Every meaningful eligible derivative must be prepared and actually published/submitted on available compatible marketplaces, or have a documented reason and queue entry for an unavailable destination. Do not delay new video production solely because a marketplace is awaiting external review.
